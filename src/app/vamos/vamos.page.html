@@ -1,0 +1,21 @@
+<ion-content>
+
+    <!--Section for closing the modal-->
+    <section class="ion-text-end">
+        <ion-buttons slot="end">
+            <ion-icon name="close-circle" color="primary" (click)="closeVamosDialog()"></ion-icon>
+        </ion-buttons>
+    </section>
+
+
+    <!-- Section of the modal for dialog & buttons-->
+    <section class="ion-text-center">
+
+        <img src="data:image/png;base64,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">
+        <h1>¡Vamos!</h1>
+        <p>Todo ha salido bien :)</p>
+        <ion-button size="small" color="primary" (click)="closeVamosDialog()">Cerrar pestaña</ion-button>
+
+    </section>
+
+</ion-content>

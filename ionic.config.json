@@ -1,0 +1,7 @@
+{
+  "name": "dialogsApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
