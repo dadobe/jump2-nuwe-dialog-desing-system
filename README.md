@@ -1,5 +1,5 @@
 Mini proyecto realizado en Ionic.
-Motivo por le cual me he decabtado pr usar Ionic y no otra cosa, simple, es lo que utlicé para realizar mi Proyecto Final de Grado (y ya me manejaba mejor).
+Motivo por le cual me he decantado pr usar Ionic y no otra cosa, simple, es lo que utlicé para realizar mi Proyecto Final de Grado (y ya me manejaba mejor).
 
 Proyecto consta de 4 carpetas pricipales bajo SRC:
 
